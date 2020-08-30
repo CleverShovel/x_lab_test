@@ -1,0 +1,6 @@
+/.vscode
+/__pycache__
+/env
+/secret_config.py
+/audios
+/test_audios
